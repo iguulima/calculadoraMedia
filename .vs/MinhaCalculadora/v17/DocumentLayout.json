@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ronaldo web\\back-end\\MinhaCalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C859D7D9-6D79-47A2-B153-88C93DAD1623}|MinhaCalculadora\\MinhaCalculadora.csproj|d:\\ronaldo web\\back-end\\minhacalculadora\\minhacalculadora\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C859D7D9-6D79-47A2-B153-88C93DAD1623}|MinhaCalculadora\\MinhaCalculadora.csproj|solutionrelative:minhacalculadora\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C859D7D9-6D79-47A2-B153-88C93DAD1623}|MinhaCalculadora\\MinhaCalculadora.csproj|d:\\ronaldo web\\back-end\\minhacalculadora\\minhacalculadora\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C859D7D9-6D79-47A2-B153-88C93DAD1623}|MinhaCalculadora\\MinhaCalculadora.csproj|solutionrelative:minhacalculadora\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C859D7D9-6D79-47A2-B153-88C93DAD1623}|MinhaCalculadora\\MinhaCalculadora.csproj|d:\\ronaldo web\\back-end\\minhacalculadora\\minhacalculadora\\views\\home\\calculadora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C859D7D9-6D79-47A2-B153-88C93DAD1623}|MinhaCalculadora\\MinhaCalculadora.csproj|solutionrelative:minhacalculadora\\views\\home\\calculadora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C859D7D9-6D79-47A2-B153-88C93DAD1623}|MinhaCalculadora\\MinhaCalculadora.csproj|d:\\ronaldo web\\back-end\\minhacalculadora\\minhacalculadora\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C859D7D9-6D79-47A2-B153-88C93DAD1623}|MinhaCalculadora\\MinhaCalculadora.csproj|solutionrelative:minhacalculadora\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraController.cs",
+              "DocumentMoniker": "D:\\Ronaldo web\\back-end\\MinhaCalculadora\\MinhaCalculadora\\Controllers\\CalculadoraController.cs",
+              "RelativeDocumentMoniker": "MinhaCalculadora\\Controllers\\CalculadoraController.cs",
+              "ToolTip": "D:\\Ronaldo web\\back-end\\MinhaCalculadora\\MinhaCalculadora\\Controllers\\CalculadoraController.cs",
+              "RelativeToolTip": "MinhaCalculadora\\Controllers\\CalculadoraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:01:22.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cshtml",
+              "DocumentMoniker": "D:\\Ronaldo web\\back-end\\MinhaCalculadora\\MinhaCalculadora\\Views\\Home\\Calculadora.cshtml",
+              "RelativeDocumentMoniker": "MinhaCalculadora\\Views\\Home\\Calculadora.cshtml",
+              "ToolTip": "D:\\Ronaldo web\\back-end\\MinhaCalculadora\\MinhaCalculadora\\Views\\Home\\Calculadora.cshtml",
+              "RelativeToolTip": "MinhaCalculadora\\Views\\Home\\Calculadora.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T23:33:21.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ronaldo web\\back-end\\MinhaCalculadora\\MinhaCalculadora\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MinhaCalculadora\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ronaldo web\\back-end\\MinhaCalculadora\\MinhaCalculadora\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MinhaCalculadora\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T23:21:02.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ronaldo web\\back-end\\MinhaCalculadora\\MinhaCalculadora\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MinhaCalculadora\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ronaldo web\\back-end\\MinhaCalculadora\\MinhaCalculadora\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MinhaCalculadora\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T23:18:29.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
